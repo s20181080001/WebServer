@@ -1,0 +1,5 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/biopredo/public_html/iprot"
+PassengerBaseURI "/iprot"
+PassengerPython "/home/biopredo/virtualenv/public__html_iprot/3.6/bin/python3.6"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
